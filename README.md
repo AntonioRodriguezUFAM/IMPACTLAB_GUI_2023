@@ -1,7 +1,14 @@
 # Arquiteturas Heterogêneas - Turma 23/01
-#              GUI
 ## PROJECTO : IMPACT LAB 2023
 ##      IMPACTLAB LAB 2023
+###             PROJECTO: GUI
+Projeto Tarefas:
+. Tarefa 1 - Criar grupos de 3 a 5
+. Tarefa 2 - instalação Visual Studio
+. Tarefa 3 - Criar repositório Github(individual)
+. Tarefa 4 - Criar um GUI
+. Tarefa 5 - Processamento de Imagem
+. Tarefa 6 - Criar 3 filtros 
 
 
 LINKS: 
