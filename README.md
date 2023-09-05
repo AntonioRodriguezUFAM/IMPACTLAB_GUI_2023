@@ -1,7 +1,11 @@
 # Arquiteturas Heterogêneas - Turma 23/01
-## PROJECTO : IMPACT LAB 2023
+# Programacao em Parallel  - Turma 23/01
+
+## PROJECTO : IMPACT & PAVIC LAB 2023
 ##      IMPACTLAB LAB 2023
-###             PROJECTO: GUI
+##      PAVIC LAB LAB 2023
+###            PROJECTO: GUI - IMAGE PROCESSING
+
 Projeto Tarefas:
 - Tarefa 1 - Criar grupos de 3 a 5
 - Tarefa 2 - instalação Visual Studio
@@ -15,6 +19,15 @@ LINKS:
 - https://www.youtube.com/watch?v=zv8DkkhBNR0
 - https://www.rkaiser.de/c-winforms-tutorial/
 
+
+IMPACT LAB PROJETO - TURMA 03
+- GRUPO : 01: https://github.com/Odalisio-Neto/Impact-Lab-Comp-Het 
+- GRUPO : 02: https://github.com/vitskrieg/ArquiteHeterogeneas_ImpactLab_EXERCICIOS.git
+- GRUPO : 03: https://github.com/pedrolievra/FilterApply.git
+- GRUPO : 04: https://github.com/EugenioAL/Imsof.git
+- GRUPO : 05: http://github.com/MehlloLima/Sidoraldo
+
+
 PAVIC PROJETO - TURMA 01
 - GRUPO : 01: https://github.com/PauloCh-PAVIC/PP_Image_Recolor
 - GRUPO : 02: https://github.com/mafaldasalomao/app_pp_cuda
@@ -22,6 +35,9 @@ PAVIC PROJETO - TURMA 01
 - GRUPO : 04: https://github.com/Cleps/PAVIC-modulo1
 - GRUPO : 05: https://github.com/AvlisRede/PAVIC-LAB---MODULO-01---PROJETO---TURMA-01
 - GRUPO : 06: https://github.com/moisesa1/imagem_projeto
+
+IMPACT LAB PROJETO - TURMA 03 - Example 
+https://github.com/AntonioRodriguezUFAM/ImpactLab_Project_02 
 
 
 "Diferentes bibliotecas ou classes de processamento de imagem"
