@@ -15,26 +15,40 @@ Projeto Tarefas:
 - Tarefa 6 - Criar 3 filtros 
 
 
-LINKS: 
+LINKS Ref: 
 - https://www.youtube.com/watch?v=zv8DkkhBNR0
 - https://www.rkaiser.de/c-winforms-tutorial/
+- https://www.youtube.com/watch?v=028GNYC32Rg&list=PLG5M8QIx5lkzdGkdYQeeCK__As6sI2tOY
+- 
 
-
-IMPACT LAB PROJETO - TURMA 03
+IMPACT LAB PROJETO - TURMA 03 - 2023
 - GRUPO : 01: https://github.com/Odalisio-Neto/Impact-Lab-Comp-Het 
 - GRUPO : 02: https://github.com/vitskrieg/ArquiteHeterogeneas_ImpactLab_EXERCICIOS.git
 - GRUPO : 03: https://github.com/pedrolievra/FilterApply.git
 - GRUPO : 04: https://github.com/EugenioAL/Imsof.git
 - GRUPO : 05: http://github.com/MehlloLima/Sidoraldo
 
-
-PAVIC PROJETO - TURMA 01
+PAVIC PROJETO - TURMA 01 - 2022
 - GRUPO : 01: https://github.com/PauloCh-PAVIC/PP_Image_Recolor
 - GRUPO : 02: https://github.com/mafaldasalomao/app_pp_cuda
 - GRUPO : 03: https://github.com/Roberto-RB/Project
 - GRUPO : 04: https://github.com/Cleps/PAVIC-modulo1
 - GRUPO : 05: https://github.com/AvlisRede/PAVIC-LAB---MODULO-01---PROJETO---TURMA-01
 - GRUPO : 06: https://github.com/moisesa1/imagem_projeto
+
+PAVIC PROJETO - TURMA 02 - 2023
+- GRUPO : 01:https://www.youtube.com/watch?v=aWe2yB2DMeE
+- -- Grupo Member 1: José,Gustavo, Isaac,João Gabriel, Lorraina 
+  -- https://github.com/jnognet/Projeto_Final_Programacao_Paralela
+  -- https://github.com/jnognet/Projeto_Final_Programacao_Paralela_Cuda
+  -- https://github.com/jnognet/Projeto_Final_Programacao_Paralela_Halide
+  
+- GRUPO : 02:https://github.com/vyctor922/Atividade-1_PA_turma-2/tree/master
+  -- Grupo Member 2: Victor, Quefren, Ozeias,Antonino, Juan
+  
+- GRUPO : 03:https://github.com/wallisonferreira/PixelWizardFX2023
+  -- Grupo Member 3: Wallison, Leonésio, Lauan, Marcos, Guilherme
+
 
 IMPACT LAB PROJETO - TURMA 03 - Example 
 https://github.com/AntonioRodriguezUFAM/ImpactLab_Project_02 
