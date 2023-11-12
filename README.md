@@ -38,16 +38,16 @@ PAVIC PROJETO - TURMA 01 - 2022
 
 PAVIC PROJETO - TURMA 02 - 2023
 - GRUPO : 01:https://www.youtube.com/watch?v=aWe2yB2DMeE
-- -- Grupo Member 1: José,Gustavo, Isaac,João Gabriel, Lorraina 
-  -- https://github.com/jnognet/Projeto_Final_Programacao_Paralela
-  -- https://github.com/jnognet/Projeto_Final_Programacao_Paralela_Cuda
-  -- https://github.com/jnognet/Projeto_Final_Programacao_Paralela_Halide
+  Grupo Member 1: José,Gustavo, Isaac,João Gabriel, Lorraina 
+  https://github.com/jnognet/Projeto_Final_Programacao_Paralela
+  https://github.com/jnognet/Projeto_Final_Programacao_Paralela_Cuda
+  https://github.com/jnognet/Projeto_Final_Programacao_Paralela_Halide
   
 - GRUPO : 02:https://github.com/vyctor922/Atividade-1_PA_turma-2/tree/master
-  -- Grupo Member 2: Victor, Quefren, Ozeias,Antonino, Juan
+  Grupo Member 2: Victor, Quefren, Ozeias,Antonino, Juan
   
 - GRUPO : 03:https://github.com/wallisonferreira/PixelWizardFX2023
-  -- Grupo Member 3: Wallison, Leonésio, Lauan, Marcos, Guilherme
+  Grupo Member 3: Wallison, Leonésio, Lauan, Marcos, Guilherme
 
 
 IMPACT LAB PROJETO - TURMA 03 - Example 
