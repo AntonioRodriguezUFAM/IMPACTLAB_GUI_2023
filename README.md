@@ -7,7 +7,7 @@
 #### Image processing: Image Filtering
   - Space Dominance
   - Frequency domain
-<img src="https://github.com/AntonioRodriguezUFAM/IMPACTLAB_GUI_2023/blob/12d0d7900a40c5ecf6eb75ec23c4c936e82719bf/Project_Ufam.png"/>
+<img src="https://github.com/AntonioRodriguezUFAM/IMPACTLAB_GUI_2023/blob/12d0d7900a40c5ecf6eb75ec23c4c936e82719bf/Project_Ufam01.png"/>
 -**Prof:Antonio Souto Rodriguez**
 
 # Arquiteturas Heterogêneas - Turma 23/01
