@@ -1,4 +1,4 @@
-# Arquiteturas Heterogêneas - Turma 23/01
+# Arquiteturas HeterogÃªneas - Turma 23/01
 # Programacao em Parallel  - Turma 23/01
 
 ## PROJECTO : IMPACT & PAVIC LAB 2023
@@ -8,8 +8,8 @@
 
 Projeto Tarefas:
 - Tarefa 1 - Criar grupos de 3 a 5
-- Tarefa 2 - instalação Visual Studio
-- Tarefa 3 - Criar repositório Github(individual)
+- Tarefa 2 - instalaÃ§Ã£o Visual Studio
+- Tarefa 3 - Criar repositÃ³rio Github(individual)
 - Tarefa 4 - Criar um GUI
 - Tarefa 5 - Processamento de Imagem
 - Tarefa 6 - Criar 3 filtros 
@@ -47,51 +47,59 @@ https://github.com/AntonioRodriguezUFAM/ImpactLab_Project_02
 
 ---
 
-Quando falamos sobre o desempenho entre diferentes bibliotecas ou classes de processamento de imagem, isso geralmente depende de como essas bibliotecas manipulam os dados da imagem e as operações que realizamos nelas. Vamos detalhar a comparação de desempenho entre `stbi` (uma biblioteca C popular para carregar imagens) e a classe `Bitmap` em C++/CLI com base em vários critérios:
+Quando falamos sobre o desempenho entre diferentes bibliotecas ou classes de processamento de imagem, isso geralmente depende de como essas bibliotecas manipulam os dados da imagem e as operaÃ§Ãµes que realizamos nelas. Vamos detalhar a comparaÃ§Ã£o de desempenho entre `stbi` (uma biblioteca C popular para carregar imagens) e a classe `Bitmap` em C++/CLI com base em vÃ¡rios critÃ©rios:
 
-### 1. Gerenciamento de Memória
-
-#### stbi
-- **Eficiência de Memória**: Tipicamente mais eficiente em termos de memória, pois é uma biblioteca C e permite um controle mais refinado sobre o uso da memória.
-- **Gerenciamento Manual**: Requer gerenciamento manual da memória, o que pode ser mais performático, mas também mais propenso a erros (como vazamentos de memória) se não for manuseado com cuidado.
-
-#### Classe Bitmap
-- **Coleta de Lixo**: Como parte do framework .NET, utiliza a coleta de lixo para o gerenciamento de memória, o que pode adicionar sobrecarga em comparação com o gerenciamento manual de memória.
-- **Facilidade de Uso**: Mais fácil de usar e menos propenso a erros de gerenciamento de memória em comparação com o gerenciamento manual de memória.
-
-### 2. Velocidade das Operações
+### 1. Gerenciamento de MemÃ³ria
 
 #### stbi
-- **Velocidade Nativa**: Como uma biblioteca C, geralmente pode oferecer desempenho mais rápido para operações de imagem porque opera mais próximo do hardware.
-- **Otimizações**: Pode ser combinada com outras bibliotecas C ou montagem inline para otimizações, potencialmente oferecendo um desempenho muito alto.
+- **EficiÃªncia de MemÃ³ria**: Tipicamente mais eficiente em termos de memÃ³ria, pois Ã© uma biblioteca C e permite um controle mais refinado sobre o uso da memÃ³ria.
+- **Gerenciamento Manual**: Requer gerenciamento manual da memÃ³ria, o que pode ser mais performÃ¡tico, mas tambÃ©m mais propenso a erros (como vazamentos de memÃ³ria) se nÃ£o for manuseado com cuidado.
 
 #### Classe Bitmap
-- **Código Gerenciado**: Como uma classe gerenciada no framework .NET, pode ter alguma sobrecarga adicional em comparação com o código C nativo, o que pode potencialmente torná-la mais lenta.
-- **Facilidade de Implementação**: Oferece implementação mais fácil e rápida para várias operações, o que pode acelerar o tempo de desenvolvimento.
+- **Coleta de Lixo**: Como parte do framework .NET, utiliza a coleta de lixo para o gerenciamento de memÃ³ria, o que pode adicionar sobrecarga em comparaÃ§Ã£o com o gerenciamento manual de memÃ³ria.
+- **Facilidade de Uso**: Mais fÃ¡cil de usar e menos propenso a erros de gerenciamento de memÃ³ria em comparaÃ§Ã£o com o gerenciamento manual de memÃ³ria.
+
+### 2. Velocidade das OperaÃ§Ãµes
+
+#### stbi
+- **Velocidade Nativa**: Como uma biblioteca C, geralmente pode oferecer desempenho mais rÃ¡pido para operaÃ§Ãµes de imagem porque opera mais prÃ³ximo do hardware.
+- **OtimizaÃ§Ãµes**: Pode ser combinada com outras bibliotecas C ou montagem inline para otimizaÃ§Ãµes, potencialmente oferecendo um desempenho muito alto.
+
+#### Classe Bitmap
+- **CÃ³digo Gerenciado**: Como uma classe gerenciada no framework .NET, pode ter alguma sobrecarga adicional em comparaÃ§Ã£o com o cÃ³digo C nativo, o que pode potencialmente tornÃ¡-la mais lenta.
+- **Facilidade de ImplementaÃ§Ã£o**: Oferece implementaÃ§Ã£o mais fÃ¡cil e rÃ¡pida para vÃ¡rias operaÃ§Ãµes, o que pode acelerar o tempo de desenvolvimento.
 
 ### 3. Flexibilidade e Funcionalidades
 
 #### stbi
-- **Flexibilidade**: Permite maior flexibilidade e personalização para operações de imagem.
-- **Integração com Outras Bibliotecas C**: Pode ser facilmente integrado com outras bibliotecas C para recursos adicionais e otimizações.
+- **Flexibilidade**: Permite maior flexibilidade e personalizaÃ§Ã£o para operaÃ§Ãµes de imagem.
+- **IntegraÃ§Ã£o com Outras Bibliotecas C**: Pode ser facilmente integrado com outras bibliotecas C para recursos adicionais e otimizaÃ§Ãµes.
 
 #### Classe Bitmap
-- **Conjunto Rico de Funcionalidades**: Oferece um conjunto rico de funcionalidades para o processamento de imagens como parte do framework .NET, facilitando a implementação de operações complexas sem a necessidade de integrar bibliotecas adicionais.
-- **Integração com .NET**: Pode ser facilmente integrado com outras classes e funcionalidades no framework .NET para construir aplicações abrangentes.
+- **Conjunto Rico de Funcionalidades**: Oferece um conjunto rico de funcionalidades para o processamento de imagens como parte do framework .NET, facilitando a implementaÃ§Ã£o de operaÃ§Ãµes complexas sem a necessidade de integrar bibliotecas adicionais.
+- **IntegraÃ§Ã£o com .NET**: Pode ser facilmente integrado com outras classes e funcionalidades no framework .NET para construir aplicaÃ§Ãµes abrangentes.
 
 ### 4. Comunidade e Suporte
 
 #### stbi
 - **Comunidade**: Tem uma grande comunidade e tem sido usado em muitos projetos, o que pode ser uma fonte de suporte e exemplos.
-- **Documentação**: Bem documentado, com muitos recursos disponíveis para aprendizagem e resolução de problemas.
+- **DocumentaÃ§Ã£o**: Bem documentado, com muitos recursos disponÃ­veis para aprendizagem e resoluÃ§Ã£o de problemas.
 
 #### Classe Bitmap
-- **Comunidade**: Também tem uma grande comunidade como parte da comunidade de desenvolvedores .NET, que pode ser uma fonte de suporte e exemplos.
-- **Documentação**: Bem documentado como parte do framework .NET, com muitos recursos disponíveis para aprendizagem e resolução de problemas.
+- **Comunidade**: TambÃ©m tem uma grande comunidade como parte da comunidade de desenvolvedores .NET, que pode ser uma fonte de suporte e exemplos.
+- **DocumentaÃ§Ã£o**: Bem documentado como parte do framework .NET, com muitos recursos disponÃ­veis para aprendizagem e resoluÃ§Ã£o de problemas.
 
-### Conclusão
+### ConclusÃ£o
 
-A melhor escolha entre `stbi` e a classe `Bitmap` dependeria das suas necessidades específicas, da complexidade do seu projeto e da sua familiaridade com a programação em C ou .NET. Se você está procurando por desempenho bruto e está confortável com a programação em C, `stbi` pode ser a melhor escolha. Se você está procurando por uma implementação mais fácil e integração com outras funcionalidades .NET, a classe `Bitmap` pode ser a melhor escolha.
+A melhor escolha entre `stbi` e a classe `Bitmap` dependeria das suas necessidades especÃ­ficas, da complexidade do seu projeto e da sua familiaridade com a programaÃ§Ã£o em C ou .NET. Se vocÃª estÃ¡ procurando por desempenho bruto e estÃ¡ confortÃ¡vel com a programaÃ§Ã£o em C, `stbi` pode ser a melhor escolha. Se vocÃª estÃ¡ procurando por uma implementaÃ§Ã£o mais fÃ¡cil e integraÃ§Ã£o com outras funcionalidades .NET, a classe `Bitmap` pode ser a melhor escolha.
 
- Também pode ser interessante realizar alguns benchmarks com sua carga de trabalho específica para ver qual oferece um melhor desempenho.
+ TambÃ©m pode ser interessante realizar alguns benchmarks com sua carga de trabalho especÃ­fica para ver qual oferece um melhor desempenho.
 
+### Treinamento Pavic - Turma II 2023
+![image info](Treinamento Pavic - Turma II 2023.jpeg)
+
+Inline-style (hover to see title text):
+![alt text](img/markdown_logo.png "Title Text")
+Reference-style (hover to see title text):
+![alt text1][logo]
+[logo]: img/markdown_logo.png "Title Text"
