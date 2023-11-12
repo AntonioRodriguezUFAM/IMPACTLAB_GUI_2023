@@ -50,7 +50,7 @@ LINKS Ref:
 - GigHub 02:https://github.com/jnognet/Projeto_Final_Programacao_Paralela_Cuda
 - GigHub 03:https://github.com/jnognet/Projeto_Final_Programacao_Paralela_Halide
   
-  ##### GRUPO : 02:
+  #### GRUPO : 02:
 - **Grupo Member 2:** Victor, Quefren, Ozeias,Antonino, Juan
 - GigHub:https://github.com/vyctor922/Atividade-1_PA_turma-2/tree/master
   
