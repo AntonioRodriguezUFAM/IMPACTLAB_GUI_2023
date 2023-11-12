@@ -26,6 +26,7 @@ LINKS Ref:
 - GRUPO : 03: https://github.com/pedrolievra/FilterApply.git
 - GRUPO : 04: https://github.com/EugenioAL/Imsof.git
 - GRUPO : 05: http://github.com/MehlloLima/Sidoraldo
+- #### Prof:Antonio Souto Rodriguez
 
 ## PAVIC PROJETO - TURMA 01 - 2022
 - GRUPO : 01: https://github.com/PauloCh-PAVIC/PP_Image_Recolor
@@ -34,6 +35,7 @@ LINKS Ref:
 - GRUPO : 04: https://github.com/Cleps/PAVIC-modulo1
 - GRUPO : 05: https://github.com/AvlisRede/PAVIC-LAB---MODULO-01---PROJETO---TURMA-01
 - GRUPO : 06: https://github.com/moisesa1/imagem_projeto
+- #### Prof:Antonio Souto Rodriguez
 
 ## PAVIC PROJETO - TURMA 02 - 2023
 #### GRUPO : 01:
@@ -50,11 +52,13 @@ LINKS Ref:
   #### GRUPO : 03:
 - **Grupo Member 3:** Wallison, Leonésio, Lauan, Marcos, Guilherme
 - GigHub:https://github.com/wallisonferreira/PixelWizardFX2023
-#### Prof:Antonio Souto Rodriguez
+- #### Prof:Antonio Souto Rodriguez
 
 
 ## IMPACT LAB PROJETO - TURMA 03 - Example 
-https://github.com/AntonioRodriguezUFAM/ImpactLab_Project_02 
+- https://github.com/AntonioRodriguezUFAM/ImpactLab_Project_02
+- #### Prof:Antonio Souto Rodriguez
+
 
 
 ###### "Diferentes bibliotecas ou classes de processamento de imagem"
@@ -114,4 +118,5 @@ A melhor escolha entre `stbi` e a classe `Bitmap` dependeria das suas necessidad
 
 ### Treinamento Pavic - Turma II 2023
 <img src="https://github.com/AntonioRodriguezUFAM/IMPACTLAB_GUI_2023/blob/6bf1585629f06736f3cf113bba4905f7e6e68773/Treinamento%20Pavic%20-%20Turma%20II%202023.jpeg"/>
-                                                                   Treinamento Pavic - Turma II 2023
+- **Treinamento Pavic - Turma II 2023**
+- #### Prof:Antonio Souto Rodriguez
