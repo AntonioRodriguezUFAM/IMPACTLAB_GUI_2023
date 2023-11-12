@@ -19,16 +19,15 @@ LINKS Ref:
 - https://www.youtube.com/watch?v=zv8DkkhBNR0
 - https://www.rkaiser.de/c-winforms-tutorial/
 - https://www.youtube.com/watch?v=028GNYC32Rg&list=PLG5M8QIx5lkzdGkdYQeeCK__As6sI2tOY
-- 
 
-IMPACT LAB PROJETO - TURMA 03 - 2023
+## IMPACT LAB PROJETO - TURMA 03 - 2023
 - GRUPO : 01: https://github.com/Odalisio-Neto/Impact-Lab-Comp-Het 
 - GRUPO : 02: https://github.com/vitskrieg/ArquiteHeterogeneas_ImpactLab_EXERCICIOS.git
 - GRUPO : 03: https://github.com/pedrolievra/FilterApply.git
 - GRUPO : 04: https://github.com/EugenioAL/Imsof.git
 - GRUPO : 05: http://github.com/MehlloLima/Sidoraldo
 
-PAVIC PROJETO - TURMA 01 - 2022
+## PAVIC PROJETO - TURMA 01 - 2022
 - GRUPO : 01: https://github.com/PauloCh-PAVIC/PP_Image_Recolor
 - GRUPO : 02: https://github.com/mafaldasalomao/app_pp_cuda
 - GRUPO : 03: https://github.com/Roberto-RB/Project
@@ -36,34 +35,34 @@ PAVIC PROJETO - TURMA 01 - 2022
 - GRUPO : 05: https://github.com/AvlisRede/PAVIC-LAB---MODULO-01---PROJETO---TURMA-01
 - GRUPO : 06: https://github.com/moisesa1/imagem_projeto
 
-PAVIC PROJETO - TURMA 02 - 2023
+## PAVIC PROJETO - TURMA 02 - 2023
 #### GRUPO : 01:
 - Video: https://www.youtube.com/watch?v=aWe2yB2DMeE
-- Grupo Member 1: José,Gustavo, Isaac,João Gabriel, Lorraina
+- **Grupo Member 1:** José,Gustavo, Isaac,João Gabriel, Lorraina
 - GigHub 01: https://github.com/jnognet/Projeto_Final_Programacao_Paralela
 - GigHub 02:https://github.com/jnognet/Projeto_Final_Programacao_Paralela_Cuda
 - GigHub 03:https://github.com/jnognet/Projeto_Final_Programacao_Paralela_Halide
   
   ##### GRUPO : 02:
-- Grupo Member 2: Victor, Quefren, Ozeias,Antonino, Juan
+- **Grupo Member 2:** Victor, Quefren, Ozeias,Antonino, Juan
 - GigHub:https://github.com/vyctor922/Atividade-1_PA_turma-2/tree/master
   
   #### GRUPO : 03:
-- Grupo Member 3: Wallison, Leonésio, Lauan, Marcos, Guilherme
+- **Grupo Member 3:** Wallison, Leonésio, Lauan, Marcos, Guilherme
 - GigHub:https://github.com/wallisonferreira/PixelWizardFX2023
-##### Prof:Antonio Souto Rodriguez
+#### Prof:Antonio Souto Rodriguez
 
 
-IMPACT LAB PROJETO - TURMA 03 - Example 
+## IMPACT LAB PROJETO - TURMA 03 - Example 
 https://github.com/AntonioRodriguezUFAM/ImpactLab_Project_02 
 
 
-"Diferentes bibliotecas ou classes de processamento de imagem"
+###### "Diferentes bibliotecas ou classes de processamento de imagem"
 
- -- Classe stbi
- -- Classe Bitmap
+ - Classe stbi
+ - Classe Bitmap
 
----
+
 
 Quando falamos sobre o desempenho entre diferentes bibliotecas ou classes de processamento de imagem, isso geralmente depende de como essas bibliotecas manipulam os dados da imagem e as operações que realizamos nelas. Vamos detalhar a comparação de desempenho entre `stbi` (uma biblioteca C popular para carregar imagens) e a classe `Bitmap` em C++/CLI com base em vários critérios:
 
