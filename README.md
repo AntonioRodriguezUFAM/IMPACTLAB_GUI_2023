@@ -96,13 +96,5 @@ A melhor escolha entre `stbi` e a classe `Bitmap` dependeria das suas necessidad
  Também pode ser interessante realizar alguns benchmarks com sua carga de trabalho específica para ver qual oferece um melhor desempenho.
 
 ### Treinamento Pavic - Turma II 2023
-![image info](Treinamento Pavic - Turma II 2023.jpeg)
-<img src="https://github.com/AntonioRodriguezUFAM/IMPACTLAB_GUI_2023/blob/master/Treinamento%20Pavic%20-%20Turma%20II%202023.jpeg"align="center" height="350" width="600"/>
 <img src="https://github.com/AntonioRodriguezUFAM/IMPACTLAB_GUI_2023/blob/6bf1585629f06736f3cf113bba4905f7e6e68773/Treinamento%20Pavic%20-%20Turma%20II%202023.jpeg"/>
-Treinamento Pavic - Turma II 2023.jpeg
-
-Inline-style (hover to see title text):
-![alt text](img/markdown_logo.png "Title Text")
-Reference-style (hover to see title text):
-![alt text1][logo]
-[logo]: img/markdown_logo.png "Title Text"
+                                                                   Treinamento Pavic - Turma II 2023
