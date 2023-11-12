@@ -97,6 +97,7 @@ A melhor escolha entre `stbi` e a classe `Bitmap` dependeria das suas necessidad
 
 ### Treinamento Pavic - Turma II 2023
 ![image info](Treinamento Pavic - Turma II 2023.jpeg)
+<img src="https://github.com/AntonioRodriguezUFAM/IMPACTLAB_GUI_2023/blob/master/Treinamento%20Pavic%20-%20Turma%20II%202023.jpeg"align="center" height="350" width="600"/>
 
 Inline-style (hover to see title text):
 ![alt text](img/markdown_logo.png "Title Text")
